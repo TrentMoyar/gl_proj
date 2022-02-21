@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.10)
 project(gl_proj)
 
 # add the executable
-add_executable(gl_proj main.cpp glad/source/glad.c)
+add_executable(gl_proj main.cpp glad/src/glad.c)
 
 include_directories(glfw/deps)
 include_directories(glad/include)
