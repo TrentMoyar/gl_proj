@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/gl_proj.dir/main.cpp.o CMakeFiles/gl_proj.dir/glad.c.o -o gl_proj  glfw/src/libglfw3.a /usr/lib64/librt.a -lm -ldl /usr/lib64/libX11.so 
